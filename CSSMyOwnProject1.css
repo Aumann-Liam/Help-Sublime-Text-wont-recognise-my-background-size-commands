@@ -1,0 +1,10 @@
+body{
+	background: url("http://ei.marketwatch.com//Multimedia/2012/10/02/Photos/MG/MW-AU956_smnuts_20121002175526_MG.jpg?uuid=e9799e78-0cdb-11e2-ac22-002128049ad6");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+   border: 5px rgb(130,200,50) solid;
+   color: rgb(255,15,100);
+
+}

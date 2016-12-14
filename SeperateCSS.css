@@ -1,0 +1,17 @@
+h1 {
+   color: #FF0000;
+   border: 4px rgb(100,255,0) solid;
+}
+
+li {
+
+color: rgb(0, 150, 45);
+}
+h4 {
+	color: rgba(100, 255, 0, .6 );
+}
+body {
+     background: url("http://blackbirdcanwrite.com/wp-content/uploads/2012/01/color.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
